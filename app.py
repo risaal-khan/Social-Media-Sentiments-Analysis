@@ -1,8 +1,8 @@
 import streamlit as st
 import joblib
 
-model = joblib.load("PycharmProjects\Sentiment_Analysis\sentiment_analysis_model.pkl")
-vectorizer = joblib.load(r"PycharmProjects\Sentiment_Analysis\vectorizer.pkl")
+model = joblib.load("sentiment_analysis_model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 st.title("Sentiment Analysis App")
 st.write("Enter some text below, and the app will predict its sentiment.")
