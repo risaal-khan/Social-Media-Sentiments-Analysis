@@ -214,3 +214,6 @@ Top Hashtag
 -> Facebook
 * Facebook shows varied sentiment distributions similar to Twitter but tends to have a higher median sentiment score in several countries.
 * Countries like India and Brazil exhibit higher positive sentiments on Facebook.
+
+I had created a streamlit app which is deploy on streamlit cloud and below is the link to the app
+https://social-media-sentiments-analysis-emzyvnl765y3zumdcqtckd.streamlit.app/
